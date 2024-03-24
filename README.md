@@ -1,5 +1,5 @@
 
-# Hopsital-Management-System Rana 
+# Hopsital-Management-System  
 
 Welcome to the Hospital Management System, a unified platform for managing various aspects of hospital operations. This system comprises seven distinct modules, each designed to optimize a specific area of hospital management.
 
